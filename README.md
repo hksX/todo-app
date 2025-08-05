@@ -23,11 +23,14 @@ This is a simple and interactive To-Do List application built using **HTML**, **
 
 #Screenshots
 
-<img width="1014" height="533" alt="Capture" src="https://github.com/user-attachments/assets/fba99e61-f7fe-4bac-8efa-19450079a44e" />
 
-<img width="860" height="557" alt="CaptureO" src="https://github.com/user-attachments/assets/cf50384d-3a7b-4505-8a60-5e9d1b4d7a7b" />
+<img width="798" height="512" alt="Capture" src="https://github.com/user-attachments/assets/38f62c28-c8a4-4b31-82e7-344034c3c596" />
 
-<img width="845" height="648" alt="Capturexo" src="https://github.com/user-attachments/assets/a2d4120c-55ff-4c0e-81ef-2647d51e2bc5" />
+<img width="789" height="551" alt="CaptureO" src="https://github.com/user-attachments/assets/11609a12-6544-4369-8c64-1c7e76edaece" />
+
+<img width="794" height="566" alt="Capturexo" src="https://github.com/user-attachments/assets/7a7c7865-c92b-4b9f-b1a4-2662318e2448" />
+
+
 
 
 
